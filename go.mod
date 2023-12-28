@@ -1,4 +1,4 @@
-module github.com/paketo-buildpacks/image-labels/v4
+module github.com/initializ/image-labels/v4
 
 go 1.20
 
